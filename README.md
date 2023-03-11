@@ -1,4 +1,5 @@
 .header {
+    color: back;
     background-color: white;
     font-style: italic;
     font-weight: bold;
